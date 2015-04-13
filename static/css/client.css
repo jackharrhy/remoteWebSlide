@@ -1,0 +1,45 @@
+html, body {
+	margin: 0;
+	height: 100%;
+
+	font-family: roboto;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+div {
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+
+h1 {
+	margin: 1.5em 0 0 0;
+	color: #172969;
+}
+h2 {
+	color: #ff5f0d;
+}
+h3 {
+	color: #3eacec;
+}
+h4 {
+	color: #b61e23;
+}
+h5 {
+	color: #0551be;
+}
+
+.slide0 {
+	background-color: #e7e5d3;
+}
+.slide1 {
+	background-color: #dddad3;
+}
+.slide2 {
+	background-color: #d9ddcd;
+}
+.slide3 {
+	background-color: #ccd0c3;
+}
+

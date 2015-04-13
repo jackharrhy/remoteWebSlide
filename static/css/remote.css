@@ -1,0 +1,31 @@
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	height: 90%;
+
+	font-family: Helvetica, serif;
+	font-size: 12em;
+	text-align: center;
+	text-shadow: 0 0 10px #333;
+}
+
+div {
+	position: absolute;
+	width: 50%;
+	height: 100%;
+
+	line-height: 100%;
+}
+
+#back {
+	background-color: #ecbb21;
+}
+
+#forward {
+	left: 50%;
+	background-color: #7b5891;
+}
+
